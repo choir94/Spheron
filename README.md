@@ -56,3 +56,5 @@ chmod +x /root/fizzup.sh
 
 ## Cek Logs
 ```bash
+docker compose -f ~/.spheron/fizz/docker-compose.yml logs -f
+```
