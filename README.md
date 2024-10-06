@@ -44,4 +44,3 @@ sudo chmod +x /usr/local/bin/docker-compose
 # Docker version check
 docker --version
 
-```bash
