@@ -43,4 +43,16 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 # Docker version check
 docker --version
+```
 
+### 2. Install Script
+
+```bash
+chmod +x /root/fizzup.sh
+```
+```bash
+./fizzup.sh
+```
+
+## Cek Logs
+```bash
