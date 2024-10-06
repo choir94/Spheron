@@ -58,3 +58,6 @@ chmod +x /root/fizzup.sh
 ```bash
 docker compose -f ~/.spheron/fizz/docker-compose.yml logs -f
 ```
+## Join Diskusi Channel on Telegram
+
+https://t.me/airdrop_node
